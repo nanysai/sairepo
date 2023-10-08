@@ -1,0 +1,11 @@
+.container{
+text-align:center;
+background:red;
+}
+h1{
+color:blue;
+}
+.jumbotron{
+background:yellow;
+border:2px solid green;
+}
